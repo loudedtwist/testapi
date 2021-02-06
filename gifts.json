@@ -1,0 +1,39 @@
+{
+  "gifts": [
+    {
+      "logoPath": "logo1.png",
+      "barCodePath": "barcode1.png",
+      "company": "MediaMarkt",
+      "giftName": "iPhone",
+      "status": "undiscovered"
+    },
+    {
+      "logoPath": "logo2.png",
+      "barCodePath": "barcode2.png",
+      "company": "Vodafone",
+      "giftName": "3 Month free",
+      "status": "available"
+    },
+    {
+     "logoPath": "logo3.png",
+      "barCodePath": "barcode3.png",
+      "company": "JetBrains",
+      "giftName": "CLion - 3 Month Subscribtion",
+      "status": "redeemed"
+    },
+    {
+      "logoPath": "http://url/other/asd/001.pnasdasg",
+      "barCodePath": "http://url/other/asd/002.pnasdasg",
+      "company": "FirmAbcasd",
+      "giftName": "GiftAzxasasda",
+      "status": "available"
+    },
+    {
+      "logoPath": "http://url/other/123aasd/001.pnasdasg",
+      "barCodePath": "http://url/other/asdasdasdas/002.pnasdasg",
+      "company": "FirmAbcasdasasd",
+      "giftName": "GiftAzxasasdasasda",
+      "status": "available"
+    }
+  ]
+}
