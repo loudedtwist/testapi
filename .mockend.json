@@ -1,0 +1,8 @@
+{
+  "Post": {
+    "logoPath": "string",
+    "barCodePath": "string",
+    "company": "string",
+    "giftName": "string"
+  }
+}
